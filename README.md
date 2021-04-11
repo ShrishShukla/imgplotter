@@ -14,6 +14,7 @@ usage
 
 python<br>
 from imgplotter.point import plotter
+<br>
 plotter(r'path')
 <br>
 
